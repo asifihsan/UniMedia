@@ -1,0 +1,101 @@
+/* login page*/
+body{
+background-color: rgb(230, 230, 230);
+}
+.lmain{
+width: 40%;
+height: 45%;
+background-color: rgb(255, 255, 255);
+align-items: center;
+margin: auto;
+margin-top: 12%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.lhead{
+    font-family: 'Oswald', sans-serif;
+    margin: 5px;
+    
+}
+.luser{
+    width: 60%;
+    height: 30px;
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.lpass{
+    width: 60%;
+    height: 30px;
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.lbtn{
+    width: 40%;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+/* Admin Dashboard */
+.hnav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(199, 199, 199);
+    padding-left:20px;
+}
+.hname{
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.hbtn{
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    width: 5%;
+    height: 30px;
+    margin: auto;
+    text-align: center;
+    margin: 10px;
+    float: right;
+    margin-right: 58px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 600;
+    transition: transform 0.2s;
+}
+.hbtn:hover {
+    background-color: #0056b3;
+}
+.hwel{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: 500;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+
+.h1{
+    width: 100%;
+    height: 200px;
+    background-color: #007bff;
+}
+
+.htspace{
+   
+    margin-bottom: 20px;
+   
+}
