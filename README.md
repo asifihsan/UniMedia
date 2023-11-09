@@ -79,6 +79,7 @@ To use the Unimedia in development server, follow the specific instructions.
 ## Note
 You can only change password inside admin dashboard.
 
+## Conclusion
 The UniMedia is a webapp that help students and other users to know the latest updates happend in campus or going to happen. Also can share the vidergraphs of campus moments taken by students and college. It help to reach these things to all students.
 
 Create Design Deploy🚀.
