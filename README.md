@@ -14,7 +14,7 @@ UniMedia a college event book. Here Admin can post new upcoming events going hap
 ## Motivation
 I am passionate about this project because, In our campus its bit difficult to know about events. And there is Instagram pages that will post about events but its though to refer all the pages and people who don't use Instagram its bit difficult. So from that i have got thought develop it. 
 
-## Features
+## Features & windows
 ### [Posts](http://unimedia.free.nf/)
 - User and Admin can see the latest posts and Old posts posted bu admin in this window.
 - In this post it shows Title, Description, who's post, posted date, Post ID and video or image if there is.
