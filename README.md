@@ -72,7 +72,7 @@ To use the Unimedia in development server, follow the specific instructions.
 - Import the database in `Database` folder to phpMyAdmin. 
 - To run the webapp in localhost server, Open terminal from the folder where you save the project:
   ```bash
-     php -S localhos:8000
+     php -S localhost:8000
 - There you will get a link click that link, use folder path along with that link to change user and admin dasboards.
 - Admin login username is `admin` and password is `admin1234`.
 
