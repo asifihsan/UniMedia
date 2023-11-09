@@ -16,7 +16,7 @@ I am passionate about this project because, In our campus its bit difficult to k
 
 ## Features & Sections
 ### [Posts](http://unimedia.free.nf/)
-- User and Admin can see the latest posts and Old posts posted bu admin in this window.
+- User and Admin can see the latest posts and Old posts posted by admin in this window.
 - In this post it shows Title, Description, who's post, posted date, Post ID and video or image if there is.
 
 
